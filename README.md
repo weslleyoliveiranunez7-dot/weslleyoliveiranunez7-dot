@@ -52,8 +52,6 @@
 <img src="https://raw.githubusercontent.com/weslleyoliveiranunez7-dot/weslleyoliveiranunez7-dot/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
-> 💡 O gráfico da cobra (Snake) precisa de uma GitHub Action no seu repositório de perfil para ser gerado — te explico como configurar se quiser ativar.
-
 <br/>
 
 ## 🚧 Projetos
